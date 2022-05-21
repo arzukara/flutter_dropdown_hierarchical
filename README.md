@@ -1,6 +1,6 @@
 # flutter_dropdown_hierarchical
 
-A new Flutter project.
+It reorders the data and creates a hierarchical list of them. Then it can use for selecting from that data.
 
 ## Getting Started
 
